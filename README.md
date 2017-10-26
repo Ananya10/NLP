@@ -2,7 +2,7 @@
 <ul>
 <li>Text Classification - on Redit data using Logistic Regression, Perceptron, Average Perceptron, Naive Bayes.<br/>
 See the jupyter notebook called pset1.ipynb. The implementation files for the algorithms are in the gtnlplib folder</li>
-<li>Sequence labeling (POS tagging) with Hidden Markov models and implementing the Viterbi algorithm<<br/>
+<li>Sequence labeling (POS tagging) with Hidden Markov models and implementing the Viterbi algorithm<br/>
 See the jupyter notebook called pset2.ipynb. The implementation files for the algorithms are in the gtnlplib folder</li>
 <li>Sequence labeling (POS tagging) with  structured perceptron<br/>
 See the jupyter notebook called pset3.ipynb. The implementation files for the algorithms are in the gtnlplib folder</li>
